@@ -7,14 +7,15 @@ Note that the project is still in developement.
 Tealfeeds is an app which fetches you all the latest news from several different news sources. The apps users can vote wether the article is good or bad based on the articles quality. Based on user interactions the app can filter hot news, best news, debated news and latest news (latest will be merged to hot in upcoming changes). The app also filters the news based on several topics such as Global, Economics, Science, Local (based on location), etc.
 
 # Preview
-### Current feed screen
-<img src="https://github.com/Akatixxc/Tealfeeds/blob/main/Screenshot_20210127-164607_Jeptek_News.jpg" alt="Feed" width="350"/>
-
 ### New concept art
 We decided to redesign the whole UI as the first concept art I made was hard to transfer to mobile (shadows and blendingmodes didn't look the same).
 The new UI is focused on being clean, simple and feel more open.
 
 <img src="https://github.com/Akatixxc/Tealfeeds/blob/main/Tealfeeds%20concept.jpg" alt="Concept" width="350"/>
+
+### Current feed screen
+
+<img src="https://github.com/Akatixxc/Tealfeeds/blob/main/Screenshot_20210127-164607_Jeptek_News.jpg" alt="Feed" width="350"/>
 
 ### Current menu tab
 On top of the menu tab users picture, name and email should be displayed. However after current reworks on the project structure those have bugged.
